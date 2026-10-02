@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-profile-portrait.jpeg" width="220" alt="Geometric illustration of Sudip Kurundwade in a suit" />
+  <img src="./github-profile-portrait.jpeg" width="220" alt="Geometric illustration of Sudip Kurundwade in a suit" />
 </p>
 
 <h1 align="center">Sudip R. Kurundwade</h1>
