@@ -83,12 +83,11 @@ Location: Ichalkaranji, Maharashtra, India
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sudipkurundwade0101&bg_color=FFFDF5&color=1E293B&line=8B5CF6&point=F472B6&area=true&hide_border=true"
+    src="https://raw.githubusercontent.com/sudipkurundwade0101/sudipkurundwade0101/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
     width="100%"
-    alt="GitHub contribution graph"
   />
 </p>
-
 <p align="center">
   <strong>Build useful software. Learn continuously. Solve real problems.</strong>
 </p>
