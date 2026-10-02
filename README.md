@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="100%" valign="middle">
+<td width="65%" valign="middle">
 
 <h1>Sudip R. Kurundwade</h1>
 
