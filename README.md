@@ -63,26 +63,26 @@ Location: Ichalkaranji, Maharashtra, India
 ## Tech Stack
 
 <p>
-  <img src="[https://skillicons.dev/icons?i=java,js,ts,html,css,react,vite,tailwind,nodejs,express,spring,mongodb,mysql,git,github,postman](https://skillicons.dev/icons?i=java,js,ts,html,css,react,vite,tailwind,nodejs,express,spring,mongodb,mysql,git,github,postman)" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,vite,tailwind,nodejs,express,spring,mongodb,mysql,git,github,postman" alt="Technology icons" />
 </p>
 
 ## Highlights
 
 <p>
-  <img src="[https://img.shields.io/badge/1st_Prize-Nirmitih_Hackathon_2K26-F472B6?style=for-the-badge](https://img.shields.io/badge/1st_Prize-Nirmitih_Hackathon_2K26-F472B6?style=for-the-badge)" alt="1st Prize Nirmitih Hackathon 2K26" />
-  <img src="[https://img.shields.io/badge/1st_Runner--Up-KIT_PBL_Day-FBBF24?style=for-the-badge&logoColor=1E293B](https://img.shields.io/badge/1st_Runner--Up-KIT_PBL_Day-FBBF24?style=for-the-badge&logoColor=1E293B)" alt="1st Runner-Up KIT PBL Day" />
-  <img src="[https://img.shields.io/badge/2nd_Place-NeuronRush_Phoenix_2K24-34D399?style=for-the-badge&logoColor=1E293B](https://img.shields.io/badge/2nd_Place-NeuronRush_Phoenix_2K24-34D399?style=for-the-badge&logoColor=1E293B)" alt="2nd Place NeuronRush Phoenix 2K24" />
+  <img src="https://img.shields.io/badge/1st_Prize-Nirmitih_Hackathon_2K26-F472B6?style=for-the-badge" alt="1st Prize Nirmitih Hackathon 2K26" />
+  <img src="https://img.shields.io/badge/1st_Runner--Up-KIT_PBL_Day-FBBF24?style=for-the-badge&logoColor=1E293B" alt="1st Runner-Up KIT PBL Day" />
+  <img src="https://img.shields.io/badge/2nd_Place-NeuronRush_Phoenix_2K24-34D399?style=for-the-badge&logoColor=1E293B" alt="2nd Place NeuronRush Phoenix 2K24" />
 </p>
 
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="[https://github-readme-stats.vercel.app/api?username=sudipkurundwade0101&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=F472B6&text_color=1E293B&bg_color=FFFDF5](https://github-readme-stats.vercel.app/api?username=sudipkurundwade0101&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=F472B6&text_color=1E293B&bg_color=FFFDF5)" alt="Sudip's GitHub statistics" />
-  <img height="170" src="[https://streak-stats.demolab.com?user=sudipkurundwade0101&hide_border=true&background=FFFDF5&ring=F472B6&fire=FBBF24&currStreakLabel=1E293B&sideLabels=1E293B&dates=64748B](https://streak-stats.demolab.com?user=sudipkurundwade0101&hide_border=true&background=FFFDF5&ring=F472B6&fire=FBBF24&currStreakLabel=1E293B&sideLabels=1E293B&dates=64748B)" alt="Sudip's GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudipkurundwade0101&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=F472B6&text_color=1E293B&bg_color=FFFDF5" alt="Sudip's GitHub statistics" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sudipkurundwade0101&hide_border=true&background=FFFDF5&ring=F472B6&fire=FBBF24&currStreakLabel=1E293B&sideLabels=1E293B&dates=64748B" alt="Sudip's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=sudipkurundwade0101&bg_color=FFFDF5&color=1E293B&line=8B5CF6&point=F472B6&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=sudipkurundwade0101&bg_color=FFFDF5&color=1E293B&line=8B5CF6&point=F472B6&area=true&hide_border=true)" width="100%" alt="GitHub contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipkurundwade0101&bg_color=FFFDF5&color=1E293B&line=8B5CF6&point=F472B6&area=true&hide_border=true" width="100%" alt="GitHub contribution graph" />
 </p>
 
 <p align="center">
