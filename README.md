@@ -88,6 +88,7 @@ Location: Ichalkaranji, Maharashtra, India
     width="100%"
   />
 </p>
+
 <p align="center">
   <strong>Build useful software. Learn continuously. Solve real problems.</strong>
 </p>
