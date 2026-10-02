@@ -1,324 +1,75 @@
-<!-- ======================= HEADER ======================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D5DFC&height=220&section=header&text=Sudip%20Kurundwade&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Java%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
+  <img src="assets/github-profile-portrait.jpeg" width="220" alt="Geometric illustration of Sudip Kurundwade in a suit" />
 </p>
 
-<!-- ======================= TYPING ======================= -->
+<h1 align="center">Sudip R. Kurundwade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6D5DFC&center=true&vCenter=true&width=700&lines=Java+%7C+DSA+%7C+Full-Stack+Development;Building+real-world+software+solutions;250%2B+LeetCode+problems+solved;Currently+learning+Spring+Boot;Always+learning.+Always+building." />
+  Trainee Software Engineer | Java | Full-Stack Development | Problem Solving
 </p>
 
 <p align="center">
-  <a href="https://sudipkurundwade.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-6D5DFC?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://sudipkurundwade.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sudip-kurundwade-8ab3902b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-6D5DFC?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sudipkurundwade@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6D5DFC?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-34D399?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<br>
+---
 
-<!-- ======================= ABOUT ======================= -->
+## About Me
 
-## 👋 About Me
-
-I'm **Sudip Kurundwade**, a final-year Computer Science student interested in building reliable and practical software solutions.
-
-My primary focus is **Java, Data Structures & Algorithms, backend development, and full-stack web development**.
+Final-year Computer Science student focused on practical, well-structured software. I enjoy building full-stack applications, strengthening my Java backend skills, and turning real workflows into clear user experiences.
 
 ```text
-🎓  B.Tech Computer Science & Engineering
-💻  Java • DSA • React • Node.js • SQL
-🧩  250+ LeetCode problems solved
-🌱  Currently learning Spring Boot
-🚀  Building real-world full-stack applications
-📍  India
+Currently focused on: Java, DSA, MySQL, Spring Boot, and full-stack development
+Problem solving: 250+ LeetCode problems
+Education: B.Tech Computer Science, CGPA 8.45
+Volunteer role: Technical Head, byteARQ Technical Club
+Location: Ichalkaranji, Maharashtra, India
 ```
 
-> **Build. Learn. Solve. Repeat.**
+## Featured Work
 
----
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [ERP-based Student Management System](https://github.com/sudipkurundwade0101/ERP) | Role-based workflows for admissions, fees, hostels, examinations, and academic operations. | React, Node.js, Express, MongoDB, JWT |
+| [Civic Issue Reporter](https://github.com/siddhumore18/SGU_Hackathon_2025) | AI-assisted civic reporting and governance workflows for more accountable issue resolution. | React, Node.js, Express, MongoDB, Gemini AI |
+| [iCAM](https://github.com/sudipkurundwade0101/iCAM) | Android product identification app with two ML models for FMCG products and fruits or vegetables. | Java, Android, TensorFlow Lite |
+| [ByteArq](https://github.com/sudipkurundwade0101/bytearq_) | Vite and React application with a MongoDB API structured for Vercel serverless deployment. | React, Vite, Node.js, MongoDB, Vercel |
+| [Web Builder](https://github.com/sudipkurundwade/web_builder) | Creation platform for web projects, templates, reusable blocks, uploads, and AI-assisted workflows. | Node.js, Express, MongoDB, Gemini AI |
+| [Slynk](https://github.com/siddhumore18/Slynk) | Platform connecting entrepreneurs, investors, and freelancers through collaboration tools. | React, Firebase, Express, Socket.IO, LiveKit |
 
-<!-- ======================= PROJECTS ======================= -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚖️ Legal Assistant Platform
-
-A full-stack platform connecting users with advocates and providing digital case management.
-
-**Tech**
-
-`React` `Node.js` `Express` `MongoDB` `Socket.IO`
-
-**Features**
-
-* 🔐 Role-based authentication
-* 👨‍⚖️ Advocate registration
-* 💬 Real-time chat
-* 📁 Case management
-* 👤 Admin / User / Advocate dashboards
-* 📧 OTP email verification
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏥 MediCare Clinic
-
-A digital clinic management system designed to help doctors manage patient information and medical records.
-
-**Tech**
-
-`React` `Node.js` `MongoDB` `Google Calendar`
-
-**Features**
-
-* 👨‍⚕️ Patient management
-* 📋 Case history
-* 📄 Prescription management
-* 📅 Calendar integration
-* 📧 Automated emails
-* 🗂️ Digital documents
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 👁️ iCAM
-
-Object detection application designed to assist visually impaired users with audio-based feedback.
-
-**Tech**
-
-`Android Java` `TensorFlow Lite` `MobileNetV2` `SQLite`
-
-**Features**
-
-* 📷 Object detection
-* 🔊 Text-to-speech
-* 🧠 MobileNetV2
-* 📱 Offline functionality
-* 🗃️ SQLite database
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Developer Portfolio
-
-My personal portfolio showcasing my projects, technical skills, experience, and development journey.
-
-**Tech**
-
-`React` `JavaScript` `Tailwind CSS` `Vercel`
-
-**Highlights**
-
-* 🎨 Modern UI
-* 📱 Responsive design
-* 🚀 Fast deployment
-* 💼 Project showcase
-* 🔗 Live project links
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://sudipkurundwade.vercel.app">
-    <img src="https://img.shields.io/badge/View%20Portfolio-6D5DFC?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- ======================= TECH STACK ======================= -->
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
+## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,vite,tailwind,nodejs,express,spring,mongodb,mysql,git,github,postman" alt="Technology icons" />
 </p>
 
-### ⚛️ Frontend
+## Highlights
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+  <img src="https://img.shields.io/badge/1st_Prize-Nirmitih_Hackathon_2K26-F472B6?style=for-the-badge" alt="1st Prize Nirmitih Hackathon 2K26" />
+  <img src="https://img.shields.io/badge/1st_Runner--Up-KIT_PBL_Day-FBBF24?style=for-the-badge&logoColor=1E293B" alt="1st Runner-Up KIT PBL Day" />
+  <img src="https://img.shields.io/badge/2nd_Place-NeuronRush_Phoenix_2K24-34D399?style=for-the-badge&logoColor=1E293B" alt="2nd Place NeuronRush Phoenix 2K24" />
 </p>
 
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render" />
-</p>
-
----
-
-<!-- ======================= SKILLS ======================= -->
-
-## 🧠 Core Skills
-
-| Category             | Skills                                      |
-| -------------------- | ------------------------------------------- |
-| **Languages**        | Java, JavaScript, TypeScript, SQL           |
-| **Computer Science** | OOP, DSA, DBMS, Problem Solving             |
-| **Frontend**         | React, HTML, CSS, Tailwind CSS              |
-| **Backend**          | Node.js, Express.js, REST APIs, Spring Boot |
-| **Databases**        | MySQL, MongoDB, PostgreSQL, Firebase        |
-| **Tools**            | Git, GitHub, Docker, Vercel, Render         |
-
----
-
-<!-- ======================= LEETCODE ======================= -->
-
-## 🧩 Problem Solving
+## GitHub Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudipkurundwade0101?theme=dark&font=Karma&ext=heatmap" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudipkurundwade0101&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=F472B6&text_color=1E293B&bg_color=FFFDF5" alt="Sudip's GitHub statistics" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sudipkurundwade0101&hide_border=true&background=FFFDF5&ring=F472B6&fire=FBBF24&currStreakLabel=1E293B&sideLabels=1E293B&dates=64748B" alt="Sudip's GitHub streak" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipkurundwade0101&bg_color=FFFDF5&color=1E293B&line=8B5CF6&point=F472B6&area=true&hide_border=true" width="100%" alt="GitHub contribution graph" />
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/sudipkurundwade0101/">
-    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-6D5DFC?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudipkurundwade0101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=sudipkurundwade0101&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipkurundwade0101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
-<!-- ======================= CONTRIBUTIONS ======================= -->
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipkurundwade0101&bg_color=0d1117&color=6D5DFC&line=6D5DFC&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
-<!-- ======================= TROPHIES ======================= -->
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudipkurundwade0101&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
-</p>
-
----
-
-<!-- ======================= CURRENTLY LEARNING ======================= -->
-
-## 🌱 Currently Learning
-
-```text
-Spring Boot
-      ↓
-Spring Security
-      ↓
-REST API Development
-      ↓
-Database Design
-      ↓
-Backend Architecture
-      ↓
-Scalable Applications
-```
-
-I'm currently focusing on strengthening my **Java backend development** skills and learning how to design production-ready applications.
-
----
-
-<!-- ======================= GOALS ======================= -->
-
-## 🎯 2026 Goals
-
-* ☕ Become stronger in Java & Spring Boot
-* 🧠 Solve more DSA problems
-* 🏗️ Build production-ready backend applications
-* 🌐 Improve full-stack development skills
-* 🔐 Learn Spring Security & scalable authentication
-* 🤝 Contribute to open-source projects
-* 💼 Start my career as a Software Developer
-
----
-
-<!-- ======================= CONNECT ======================= -->
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://sudipkurundwade.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-6D5DFC?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/sudip-kurundwade-8ab3902b0/">
-<img src="https://img.shields.io/badge/LinkedIn-6D5DFC?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:sudipkurundwade@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-6D5DFC?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D5DFC&height=120&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-<p align="center">
-  <i>Build. Learn. Solve. Repeat.</i>
+  <strong>Build useful software. Learn continuously. Solve real problems.</strong>
 </p>
