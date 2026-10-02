@@ -1,21 +1,324 @@
-# 💫 About Me:
-Final-year Computer Science student with strong proficiency in Java, Data Structures & Algorithms, and MySQL. Solved 250+ LeetCode problems and currently learning Spring Boot to build scalable backend applications.
+<!-- ======================= HEADER ======================= -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D5DFC&height=220&section=header&text=Sudip%20Kurundwade&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Java%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudip-kurundwade-8ab3902b0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudipkurundwade@gmail.com) 
+<!-- ======================= TYPING ======================= -->
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sudipkurundwade0101&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sudipkurundwade0101&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sudipkurundwade0101&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6D5DFC&center=true&vCenter=true&width=700&lines=Java+%7C+DSA+%7C+Full-Stack+Development;Building+real-world+software+solutions;250%2B+LeetCode+problems+solved;Currently+learning+Spring+Boot;Always+learning.+Always+building." />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sudipkurundwade0101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://sudipkurundwade.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-6D5DFC?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudip-kurundwade-8ab3902b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-6D5DFC?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sudipkurundwade@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6D5DFC?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<!-- ======================= ABOUT ======================= -->
+
+## 👋 About Me
+
+I'm **Sudip Kurundwade**, a final-year Computer Science student interested in building reliable and practical software solutions.
+
+My primary focus is **Java, Data Structures & Algorithms, backend development, and full-stack web development**.
+
+```text
+🎓  B.Tech Computer Science & Engineering
+💻  Java • DSA • React • Node.js • SQL
+🧩  250+ LeetCode problems solved
+🌱  Currently learning Spring Boot
+🚀  Building real-world full-stack applications
+📍  India
+```
+
+> **Build. Learn. Solve. Repeat.**
 
 ---
-[![](https://komarev.com/ghpvc/?username=sudipkurundwade0101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ======================= PROJECTS ======================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ Legal Assistant Platform
+
+A full-stack platform connecting users with advocates and providing digital case management.
+
+**Tech**
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+**Features**
+
+* 🔐 Role-based authentication
+* 👨‍⚖️ Advocate registration
+* 💬 Real-time chat
+* 📁 Case management
+* 👤 Admin / User / Advocate dashboards
+* 📧 OTP email verification
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏥 MediCare Clinic
+
+A digital clinic management system designed to help doctors manage patient information and medical records.
+
+**Tech**
+
+`React` `Node.js` `MongoDB` `Google Calendar`
+
+**Features**
+
+* 👨‍⚕️ Patient management
+* 📋 Case history
+* 📄 Prescription management
+* 📅 Calendar integration
+* 📧 Automated emails
+* 🗂️ Digital documents
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ iCAM
+
+Object detection application designed to assist visually impaired users with audio-based feedback.
+
+**Tech**
+
+`Android Java` `TensorFlow Lite` `MobileNetV2` `SQLite`
+
+**Features**
+
+* 📷 Object detection
+* 🔊 Text-to-speech
+* 🧠 MobileNetV2
+* 📱 Offline functionality
+* 🗃️ SQLite database
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Developer Portfolio
+
+My personal portfolio showcasing my projects, technical skills, experience, and development journey.
+
+**Tech**
+
+`React` `JavaScript` `Tailwind CSS` `Vercel`
+
+**Highlights**
+
+* 🎨 Modern UI
+* 📱 Responsive design
+* 🚀 Fast deployment
+* 💼 Project showcase
+* 🔗 Live project links
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://sudipkurundwade.vercel.app">
+    <img src="https://img.shields.io/badge/View%20Portfolio-6D5DFC?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render" />
+</p>
+
+---
+
+<!-- ======================= SKILLS ======================= -->
+
+## 🧠 Core Skills
+
+| Category             | Skills                                      |
+| -------------------- | ------------------------------------------- |
+| **Languages**        | Java, JavaScript, TypeScript, SQL           |
+| **Computer Science** | OOP, DSA, DBMS, Problem Solving             |
+| **Frontend**         | React, HTML, CSS, Tailwind CSS              |
+| **Backend**          | Node.js, Express.js, REST APIs, Spring Boot |
+| **Databases**        | MySQL, MongoDB, PostgreSQL, Firebase        |
+| **Tools**            | Git, GitHub, Docker, Vercel, Render         |
+
+---
+
+<!-- ======================= LEETCODE ======================= -->
+
+## 🧩 Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sudipkurundwade0101?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/sudipkurundwade0101/">
+    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-6D5DFC?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudipkurundwade0101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sudipkurundwade0101&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipkurundwade0101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+<!-- ======================= CONTRIBUTIONS ======================= -->
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipkurundwade0101&bg_color=0d1117&color=6D5DFC&line=6D5DFC&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+<!-- ======================= TROPHIES ======================= -->
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudipkurundwade0101&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+</p>
+
+---
+
+<!-- ======================= CURRENTLY LEARNING ======================= -->
+
+## 🌱 Currently Learning
+
+```text
+Spring Boot
+      ↓
+Spring Security
+      ↓
+REST API Development
+      ↓
+Database Design
+      ↓
+Backend Architecture
+      ↓
+Scalable Applications
+```
+
+I'm currently focusing on strengthening my **Java backend development** skills and learning how to design production-ready applications.
+
+---
+
+<!-- ======================= GOALS ======================= -->
+
+## 🎯 2026 Goals
+
+* ☕ Become stronger in Java & Spring Boot
+* 🧠 Solve more DSA problems
+* 🏗️ Build production-ready backend applications
+* 🌐 Improve full-stack development skills
+* 🔐 Learn Spring Security & scalable authentication
+* 🤝 Contribute to open-source projects
+* 💼 Start my career as a Software Developer
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://sudipkurundwade.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6D5DFC?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sudip-kurundwade-8ab3902b0/">
+<img src="https://img.shields.io/badge/LinkedIn-6D5DFC?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sudipkurundwade@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-6D5DFC?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D5DFC&height=120&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <i>Build. Learn. Solve. Repeat.</i>
+</p>
